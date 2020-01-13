@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1528891603 source:/home/gaby/Documentos/URI/Copa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"data.h"
+	"hora.h"
+	"jogo.h"
+	"lista_jogos.h"
+	"selecao.h"
+	"lista_selecao.h"
+
+1528243432 /home/gaby/Documentos/URI/Copa/data.h
+
+1528243848 /home/gaby/Documentos/URI/Copa/hora.h
+
+1528887099 /home/gaby/Documentos/URI/Copa/jogo.h
+
+1528887041 /home/gaby/Documentos/URI/Copa/lista_jogos.h
+
+1528635314 /home/gaby/Documentos/URI/Copa/selecao.h
+
+1528887017 /home/gaby/Documentos/URI/Copa/lista_selecao.h
+
+1529005823 source:/home/gaby/Documentos/URI/Copa/Copa- teste/main.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+	"hora.h"
+	"jogo.h"
+	"lista_jogos.h"
+	"selecao.h"
+	"lista_selecao.h"
+
+1528243432 /home/gaby/Documentos/URI/Copa/Copa- teste/data.h
+
+1528243848 /home/gaby/Documentos/URI/Copa/Copa- teste/hora.h
+
+1528887099 /home/gaby/Documentos/URI/Copa/Copa- teste/jogo.h
+
+1528887041 /home/gaby/Documentos/URI/Copa/Copa- teste/lista_jogos.h
+
+1528635314 /home/gaby/Documentos/URI/Copa/Copa- teste/selecao.h
+
+1528887017 /home/gaby/Documentos/URI/Copa/Copa- teste/lista_selecao.h
+
+1529017068 source:/home/gaby/Documentos/URI/Copa/Copa- teste1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+	"hora.h"
+	"jogo.h"
+	"lista_jogos.h"
+	"selecao.h"
+	"lista_selecao.h"
+
+1528243432 /home/gaby/Documentos/URI/Copa/Copa- teste1/data.h
+
+1528243848 /home/gaby/Documentos/URI/Copa/Copa- teste1/hora.h
+
+1528887099 /home/gaby/Documentos/URI/Copa/Copa- teste1/jogo.h
+
+1528887041 /home/gaby/Documentos/URI/Copa/Copa- teste1/lista_jogos.h
+
+1528635314 /home/gaby/Documentos/URI/Copa/Copa- teste1/selecao.h
+
+1528887017 /home/gaby/Documentos/URI/Copa/Copa- teste1/lista_selecao.h
+
+1529292135 source:c:\users\cristian\documents\copa\copa- teste1\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"data.h"
+	"hora.h"
+	"jogo.h"
+	"lista_jogos.h"
+	"selecao.h"
+	"lista_selecao.h"
+
+1528243432 c:\users\cristian\documents\copa\copa- teste1\data.h
+
+1528243848 c:\users\cristian\documents\copa\copa- teste1\hora.h
+
+1529206225 c:\users\cristian\documents\copa\copa- teste1\jogo.h
+
+1528887041 c:\users\cristian\documents\copa\copa- teste1\lista_jogos.h
+
+1528635314 c:\users\cristian\documents\copa\copa- teste1\selecao.h
+
+1528887017 c:\users\cristian\documents\copa\copa- teste1\lista_selecao.h
+
+1529292822 source:c:\users\crist\documents\copa\copa- teste1\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"data.h"
+	"hora.h"
+	"jogo.h"
+	"lista_jogos.h"
+	"selecao.h"
+	"lista_selecao.h"
+
+1528243432 c:\users\crist\documents\copa\copa- teste1\data.h
+
+1528243848 c:\users\crist\documents\copa\copa- teste1\hora.h
+
+1529206225 c:\users\crist\documents\copa\copa- teste1\jogo.h
+
+1528887041 c:\users\crist\documents\copa\copa- teste1\lista_jogos.h
+
+1528635314 c:\users\crist\documents\copa\copa- teste1\selecao.h
+
+1528887017 c:\users\crist\documents\copa\copa- teste1\lista_selecao.h
+
+1529501365 source:c:\users\crist\documents\copa\anexo 01\copa- teste1\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"data.h"
+	"hora.h"
+	"jogo.h"
+	"lista_jogos.h"
+	"selecao.h"
+	"lista_selecao.h"
+
+1528243432 c:\users\crist\documents\copa\anexo 01\copa- teste1\data.h
+
+1528243848 c:\users\crist\documents\copa\anexo 01\copa- teste1\hora.h
+
+1529501845 c:\users\crist\documents\copa\anexo 01\copa- teste1\jogo.h
+
+1529502246 c:\users\crist\documents\copa\anexo 01\copa- teste1\lista_jogos.h
+
+1528635314 c:\users\crist\documents\copa\anexo 01\copa- teste1\selecao.h
+
+1528887017 c:\users\crist\documents\copa\anexo 01\copa- teste1\lista_selecao.h
+
